@@ -10,4 +10,7 @@ My responsibilities were:
 
 
 Images compiled from other instructors, Abbey Nov and Rafael Mota and Barry Joseph, Associate Director for Digital Learnin:
-![Alt text](/156310708.jpg?raw=true "Optional Title")
+
+![Alt text](/156310708.jpg?raw=true "Optional Title" height="50px" width="50px")
+
+<img src="/156310708.jpg" height="50px" width="50px"></img>
