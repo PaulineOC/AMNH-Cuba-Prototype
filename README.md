@@ -7,3 +7,6 @@ My responsibilities were:
 * Produce weekly prototypes for a tabletop game about how museum-based scientists advance knowledge based on meetings with the game designer, Nick Fortugno.
 * Play-tested with the class and balanced the game with Mr. Fortugno.
 * Acted as a liaison between the museum's Education Department and the game designer to ensure that the prototyping process fit well within the class’s timeline.
+
+
+Images compiled from other instructors, Abbey Nov and Rafael Mota and Barry Joseph, Associate Director for Digital Learning.
