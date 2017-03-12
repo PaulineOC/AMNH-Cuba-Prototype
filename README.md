@@ -10,12 +10,10 @@ My responsibilities were:
 
 
 Images compiled from other instructors, Abbey Nov and Rafael Mota and Barry Joseph, Associate Director for Digital Learning:
-* <img src="/156310708.jpg" height="150px" width="100px"></img>
-* <img src="/20161214_182147.jpg" height="150px" width="100px" data-rotate="90"></img>
-* <img src="/20161214_182209.jpg" height="150px" width="100px"></img>
+* <img src="/156310708.jpg" height="250px" width="150px"></img>
+* <img src="/20161214_182209.jpg" height="250px" width="150px"></img>
 * <img src="/20161214_182505.jpg" height="150px" width="100px"></img>
-* <img src="/31605604982_a706aaac7e_o.jpg" height="150px" width="100px"></img>
-* <img src="/31636293321_7f428028c1_o.jpg" height="150px" width="100px"></img>
+* <img src="/31636293321_7f428028c1_o.jpg" height="100px" width="250px"></img>
 * <img src="/S1374928681.jpg" height="150px" width="100px"></img>
 * <img src="/img1.JPG" height="150px" width="100px"></img>
 * <img src="/img2.JPG" height="150px" width="100px"></img>
