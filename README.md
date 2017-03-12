@@ -9,12 +9,12 @@ My responsibilities were:
 * Acted as a liaison between the museum's Education Department and the game designer to ensure that the prototyping process fit well within the class’s timeline.
 
 Some example images compiled from other instructors, Abbey Nov and Rafael Mota and Barry Joseph, Associate Director for Digital Learning:
-* <img src="/156310708.jpg" height="250px" width="150px"></img>
-* <img src="/20161214_182209.jpg" height="250px" width="150px"></img>
+* <img src="/156310708.jpg" height="350px" width="300px"></img>
+* <img src="/20161214_182209.jpg" height="350px" width="250px"></img>
 * <img src="/31636293321_7f428028c1_o.jpg" height="300px" width="350px"></img>
 * <img src="/S1374928681.jpg" height="250px" width="150px"></img>
-* <img src="/img1.JPG" height="350px" width="250px"></img>
-* <img src="/img2.JPG" height="350px" width="250px"></img>
-* <img src="/img3.JPG" height="350px" width="200px"></img>
+* <img src="/img1.JPG" height="350px" width="300px"></img>
+* <img src="/img2.JPG" height="350px" width="300px"></img>
+* <img src="/img3.JPG" height="350px" width="300px"></img>
 
 For better resolution, please explore this GitHub Repo
