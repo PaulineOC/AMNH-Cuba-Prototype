@@ -9,4 +9,5 @@ My responsibilities were:
 * Acted as a liaison between the museum's Education Department and the game designer to ensure that the prototyping process fit well within the class’s timeline.
 
 
-Images compiled from other instructors, Abbey Nov and Rafael Mota and Barry Joseph, Associate Director for Digital Learning.
+Images compiled from other instructors, Abbey Nov and Rafael Mota and Barry Joseph, Associate Director for Digital Learnin:
+![Alt text](/156310708.jpg?raw=true "Optional Title")
