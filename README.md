@@ -1,5 +1,5 @@
 # American-Museum-of-Natural-History-Cuba-Prototype-
-Game prototype details for my internship with the American Museum of History (Fall 2016-Winter 2017)
+Game prototype details for my internship with the American Museum of Natural History (Fall 2016-Winter 2017)
 
 The internship was with museum's #scienceFTW after-school class that combined the topics of educational game design and the history of the AMNH’s expeditions to Cuba to produce a prototype for a tabletop game about how museum-based scientists advance knowledge.
 
